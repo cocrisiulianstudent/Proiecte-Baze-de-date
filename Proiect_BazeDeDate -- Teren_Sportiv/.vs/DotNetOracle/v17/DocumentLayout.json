@@ -1,0 +1,436 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\interfatautilizator\\formautilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formautilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\interfatautilizator\\formautilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formautilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\interfatautilizator\\formaterensportiv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formaterensportiv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\interfatautilizator\\formaterensportiv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formaterensportiv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\interfatautilizator\\formaterensportiv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formaterensportiv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\interfatautilizator\\formainchiriere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formainchiriere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\interfatautilizator\\formainchiriere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formainchiriere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|d:\\an iii semetrul ii\\bd-proiect\\proiect_bazededate -- teren_sportiv\\interfatautilizator\\formaafisare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formaafisare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\interfatautilizator\\formaafisare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formaafisare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A468BE5-C3B3-4D70-9A48-59A08E84DB96}|LibrarieModele\\LibrarieModele.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\librariemodele\\utilizatori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A468BE5-C3B3-4D70-9A48-59A08E84DB96}|LibrarieModele\\LibrarieModele.csproj|solutionrelative:librariemodele\\utilizatori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\interfatautilizator\\formainchiriere.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formainchiriere.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\interfatautilizator\\formaafisare.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formaafisare.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\dataaccesslayer\\administareinchirieri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:dataaccesslayer\\administareinchirieri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\dataaccesslayer\\administrareterenurisportive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:dataaccesslayer\\administrareterenurisportive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\interfatautilizator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\interfatautilizator\\comboitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\comboitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\dataaccesslayer\\sqldbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:dataaccesslayer\\sqldbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A468BE5-C3B3-4D70-9A48-59A08E84DB96}|LibrarieModele\\LibrarieModele.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\librariemodele\\terensportiv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A468BE5-C3B3-4D70-9A48-59A08E84DB96}|LibrarieModele\\LibrarieModele.csproj|solutionrelative:librariemodele\\terensportiv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\dataaccesslayer\\administrareutilizatori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:dataaccesslayer\\administrareutilizatori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A468BE5-C3B3-4D70-9A48-59A08E84DB96}|LibrarieModele\\LibrarieModele.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\librariemodele\\inchiriere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A468BE5-C3B3-4D70-9A48-59A08E84DB96}|LibrarieModele\\LibrarieModele.csproj|solutionrelative:librariemodele\\inchiriere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\dataaccesslayer\\istocareinchirieri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:dataaccesslayer\\istocareinchirieri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\dataaccesslayer\\istocareterenurisportive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:dataaccesslayer\\istocareterenurisportive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\dataaccesslayer\\istocarefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:dataaccesslayer\\istocarefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\dataaccesslayer\\istocareutilizatori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:dataaccesslayer\\istocareutilizatori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\interfatautilizator\\formautilizator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formautilizator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 175,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormaAfisare.cs [Design]",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaAfisare.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaAfisare.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaAfisare.cs [Design]",
+              "RelativeToolTip": "InterfataUtilizator\\FormaAfisare.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:38:45.003Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormaAfisare.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaAfisare.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaAfisare.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaAfisare.cs",
+              "RelativeToolTip": "InterfataUtilizator\\FormaAfisare.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAAwLgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:19:27.402Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormaUtilizator.cs [Design]",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaUtilizator.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaUtilizator.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaUtilizator.cs [Design]",
+              "RelativeToolTip": "InterfataUtilizator\\FormaUtilizator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:26:09.252Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormaTerenSportiv.cs [Design]",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaTerenSportiv.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaTerenSportiv.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaTerenSportiv.cs [Design]",
+              "RelativeToolTip": "InterfataUtilizator\\FormaTerenSportiv.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:26:50.443Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormaInchiriere.cs [Design]",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaInchiriere.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaInchiriere.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaInchiriere.cs [Design]",
+              "RelativeToolTip": "InterfataUtilizator\\FormaInchiriere.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:27:12.625Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Utilizatori.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\LibrarieModele\\Utilizatori.cs",
+              "RelativeDocumentMoniker": "LibrarieModele\\Utilizatori.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\LibrarieModele\\Utilizatori.cs",
+              "RelativeToolTip": "LibrarieModele\\Utilizatori.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:27:24.98Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TerenSportiv.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\LibrarieModele\\TerenSportiv.cs",
+              "RelativeDocumentMoniker": "LibrarieModele\\TerenSportiv.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\LibrarieModele\\TerenSportiv.cs",
+              "RelativeToolTip": "LibrarieModele\\TerenSportiv.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:26:52.587Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Inchiriere.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\LibrarieModele\\Inchiriere.cs",
+              "RelativeDocumentMoniker": "LibrarieModele\\Inchiriere.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\LibrarieModele\\Inchiriere.cs",
+              "RelativeToolTip": "LibrarieModele\\Inchiriere.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:53:31.065Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormaUtilizator.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaUtilizator.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaUtilizator.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaUtilizator.cs",
+              "RelativeToolTip": "InterfataUtilizator\\FormaUtilizator.cs",
+              "ViewState": "AQIAACQBAAAAAAAAAAAAwC0BAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:31:58.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdministrareTerenuriSportive.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\DataAccessLayer\\AdministrareTerenuriSportive.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AdministrareTerenuriSportive.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\DataAccessLayer\\AdministrareTerenuriSportive.cs",
+              "RelativeToolTip": "DataAccessLayer\\AdministrareTerenuriSportive.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwEMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:21:19.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormaInchiriere.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaInchiriere.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaInchiriere.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaInchiriere.cs",
+              "RelativeToolTip": "InterfataUtilizator\\FormaInchiriere.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:31:53.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormaTerenSportiv.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaTerenSportiv.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaTerenSportiv.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaTerenSportiv.cs",
+              "RelativeToolTip": "InterfataUtilizator\\FormaTerenSportiv.cs",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAjwCEBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:34:44.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SQLDbHelper.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\DataAccessLayer\\SQLDbHelper.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\SQLDbHelper.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\DataAccessLayer\\SQLDbHelper.cs",
+              "RelativeToolTip": "DataAccessLayer\\SQLDbHelper.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAkwKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:45:01.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdministrareUtilizatori.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\DataAccessLayer\\AdministrareUtilizatori.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AdministrareUtilizatori.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\DataAccessLayer\\AdministrareUtilizatori.cs",
+              "RelativeToolTip": "DataAccessLayer\\AdministrareUtilizatori.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:22:29.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormaTerenSportiv.Designer.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaTerenSportiv.Designer.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaTerenSportiv.Designer.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaTerenSportiv.Designer.cs",
+              "RelativeToolTip": "InterfataUtilizator\\FormaTerenSportiv.Designer.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAjwGEAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T23:00:59.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "app.config",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\app.config",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\app.config",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\app.config",
+              "RelativeToolTip": "InterfataUtilizator\\app.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-06T01:44:27.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormaInchiriere.Designer.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaInchiriere.Designer.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaInchiriere.Designer.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaInchiriere.Designer.cs",
+              "RelativeToolTip": "InterfataUtilizator\\FormaInchiriere.Designer.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAMwN4AAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T23:31:43.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormaAfisare.Designer.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaAfisare.Designer.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaAfisare.Designer.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaAfisare.Designer.cs",
+              "RelativeToolTip": "InterfataUtilizator\\FormaAfisare.Designer.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwDMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:16:11.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdministareInchirieri.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\DataAccessLayer\\AdministareInchirieri.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AdministareInchirieri.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\DataAccessLayer\\AdministareInchirieri.cs",
+              "RelativeToolTip": "DataAccessLayer\\AdministareInchirieri.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowCUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:22:07.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IStocareTerenuriSportive.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\DataAccessLayer\\IStocareTerenuriSportive.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IStocareTerenuriSportive.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\DataAccessLayer\\IStocareTerenuriSportive.cs",
+              "RelativeToolTip": "DataAccessLayer\\IStocareTerenuriSportive.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:24:38.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IStocareInchirieri.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\DataAccessLayer\\IStocareInchirieri.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IStocareInchirieri.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\DataAccessLayer\\IStocareInchirieri.cs",
+              "RelativeToolTip": "DataAccessLayer\\IStocareInchirieri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:26:07.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ComboItem.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\ComboItem.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\ComboItem.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\ComboItem.cs",
+              "RelativeToolTip": "InterfataUtilizator\\ComboItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:40:45.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IStocareFactory.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\DataAccessLayer\\IStocareFactory.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IStocareFactory.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\DataAccessLayer\\IStocareFactory.cs",
+              "RelativeToolTip": "DataAccessLayer\\IStocareFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:18:17.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormaUtilizator.Designer.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaUtilizator.Designer.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaUtilizator.Designer.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\InterfataUtilizator\\FormaUtilizator.Designer.cs",
+              "RelativeToolTip": "InterfataUtilizator\\FormaUtilizator.Designer.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAgwDsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:55:01.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IStocareUtilizatori.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\DataAccessLayer\\IStocareUtilizatori.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IStocareUtilizatori.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Teren_Sportiv\\DataAccessLayer\\IStocareUtilizatori.cs",
+              "RelativeToolTip": "DataAccessLayer\\IStocareUtilizatori.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:21:17.95Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

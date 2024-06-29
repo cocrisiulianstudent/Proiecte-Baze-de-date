@@ -1,0 +1,444 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\interfatautilizator\\formaaparatfoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formaaparatfoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\interfatautilizator\\formaaparatfoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formaaparatfoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\interfatautilizator\\formaclienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formaclienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\interfatautilizator\\formaclienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formaclienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\interfatautilizator\\formainchirieriaparatefoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formainchirieriaparatefoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\interfatautilizator\\formainchirieriaparatefoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formainchirieriaparatefoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|d:\\an iii semetrul ii\\bd-proiect\\proiect_bazededate -- aparat_foto\\interfatautilizator\\formaafisare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formaafisare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\interfatautilizator\\formaafisare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formaafisare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\dataaccesslayer\\administrareclienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:dataaccesslayer\\administrareclienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\dataaccesslayer\\sqldbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:dataaccesslayer\\sqldbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\dataaccesslayer\\administrareinchirieriaparatefotocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:dataaccesslayer\\administrareinchirieriaparatefotocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\interfatautilizator\\formainchirieriaparatefoto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formainchirieriaparatefoto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\interfatautilizator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\interfatautilizator\\formaafisare.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formaafisare.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A468BE5-C3B3-4D70-9A48-59A08E84DB96}|LibrarieModele\\LibrarieModele.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\librariemodele\\clienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A468BE5-C3B3-4D70-9A48-59A08E84DB96}|LibrarieModele\\LibrarieModele.csproj|solutionrelative:librariemodele\\clienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A468BE5-C3B3-4D70-9A48-59A08E84DB96}|LibrarieModele\\LibrarieModele.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\librariemodele\\inchirieriaparatfoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A468BE5-C3B3-4D70-9A48-59A08E84DB96}|LibrarieModele\\LibrarieModele.csproj|solutionrelative:librariemodele\\inchirieriaparatfoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\interfatautilizator\\formaclienti.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formaclienti.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\interfatautilizator\\formaaparatfoto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formaaparatfoto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\dataaccesslayer\\administrareaparatefoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:dataaccesslayer\\administrareaparatefoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A468BE5-C3B3-4D70-9A48-59A08E84DB96}|LibrarieModele\\LibrarieModele.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\librariemodele\\aparatfoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A468BE5-C3B3-4D70-9A48-59A08E84DB96}|LibrarieModele\\LibrarieModele.csproj|solutionrelative:librariemodele\\aparatfoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\interfatautilizator\\formaclienti.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formaclienti.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\interfatautilizator\\stocarefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\stocarefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\dataaccesslayer\\istocareinchirieriaparatefoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:dataaccesslayer\\istocareinchirieriaparatefoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\dataaccesslayer\\istocareclienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:dataaccesslayer\\istocareclienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\dataaccesslayer\\istocareaparatfoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:dataaccesslayer\\istocareaparatfoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\interfatautilizator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormaClienti.cs [Design]",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaClienti.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaClienti.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaClienti.cs [Design]",
+              "RelativeToolTip": "InterfataUtilizator\\FormaClienti.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:13:27.176Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormaClienti.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaClienti.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaClienti.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaClienti.cs",
+              "RelativeToolTip": "InterfataUtilizator\\FormaClienti.cs",
+              "ViewState": "AQIAAPcAAAAAAAAAAAAwwAkBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:18:24.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormaInchirieriAparateFoto.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaInchirieriAparateFoto.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaInchirieriAparateFoto.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaInchirieriAparateFoto.cs",
+              "RelativeToolTip": "InterfataUtilizator\\FormaInchirieriAparateFoto.cs",
+              "ViewState": "AQIAAKsBAAAAAAAAAAAkwL0BAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:22:44.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormaInchirieriAparateFoto.cs [Design]",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaInchirieriAparateFoto.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaInchirieriAparateFoto.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaInchirieriAparateFoto.cs [Design]",
+              "RelativeToolTip": "InterfataUtilizator\\FormaInchirieriAparateFoto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:13:53.899Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormaAparatFoto.cs [Design]",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaAparatFoto.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaAparatFoto.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaAparatFoto.cs [Design]",
+              "RelativeToolTip": "InterfataUtilizator\\FormaAparatFoto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:57:19.594Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormaAparatFoto.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaAparatFoto.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaAparatFoto.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaAparatFoto.cs",
+              "RelativeToolTip": "InterfataUtilizator\\FormaAparatFoto.cs",
+              "ViewState": "AQIAAAoBAAAA5E7LXIXavxcBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:57:56.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormaAfisare.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaAfisare.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaAfisare.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaAfisare.cs",
+              "RelativeToolTip": "InterfataUtilizator\\FormaAfisare.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAYwLIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:52:58.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormaAfisare.cs [Design]",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaAfisare.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaAfisare.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaAfisare.cs [Design]",
+              "RelativeToolTip": "InterfataUtilizator\\FormaAfisare.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:52:20.636Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdministrareClienti.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\DataAccessLayer\\AdministrareClienti.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AdministrareClienti.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\DataAccessLayer\\AdministrareClienti.cs",
+              "RelativeToolTip": "DataAccessLayer\\AdministrareClienti.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:42:27.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SQLDbHelper.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\DataAccessLayer\\SQLDbHelper.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\SQLDbHelper.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\DataAccessLayer\\SQLDbHelper.cs",
+              "RelativeToolTip": "DataAccessLayer\\SQLDbHelper.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwDgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:37:39.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdministrareInchirieriAparateFotocs.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\DataAccessLayer\\AdministrareInchirieriAparateFotocs.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AdministrareInchirieriAparateFotocs.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\DataAccessLayer\\AdministrareInchirieriAparateFotocs.cs",
+              "RelativeToolTip": "DataAccessLayer\\AdministrareInchirieriAparateFotocs.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:42:50.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormaAfisare.Designer.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaAfisare.Designer.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaAfisare.Designer.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaAfisare.Designer.cs",
+              "RelativeToolTip": "InterfataUtilizator\\FormaAfisare.Designer.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAqwGIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:01:12.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormaInchirieriAparateFoto.Designer.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaInchirieriAparateFoto.Designer.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaInchirieriAparateFoto.Designer.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaInchirieriAparateFoto.Designer.cs",
+              "RelativeToolTip": "InterfataUtilizator\\FormaInchirieriAparateFoto.Designer.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAArwEUAAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:46:03.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\Program.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\Program.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\Program.cs",
+              "RelativeToolTip": "InterfataUtilizator\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:56:13.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Clienti.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\LibrarieModele\\Clienti.cs",
+              "RelativeDocumentMoniker": "LibrarieModele\\Clienti.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\LibrarieModele\\Clienti.cs",
+              "RelativeToolTip": "LibrarieModele\\Clienti.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA0wBwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:44:42.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormaClienti.resx",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaClienti.resx",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaClienti.resx",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaClienti.resx",
+              "RelativeToolTip": "InterfataUtilizator\\FormaClienti.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-15T16:50:27.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormaAparatFoto.Designer.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaAparatFoto.Designer.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaAparatFoto.Designer.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaAparatFoto.Designer.cs",
+              "RelativeToolTip": "InterfataUtilizator\\FormaAparatFoto.Designer.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAawOcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:15:34.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InchirieriAparatFoto.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\LibrarieModele\\InchirieriAparatFoto.cs",
+              "RelativeDocumentMoniker": "LibrarieModele\\InchirieriAparatFoto.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\LibrarieModele\\InchirieriAparatFoto.cs",
+              "RelativeToolTip": "LibrarieModele\\InchirieriAparatFoto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:45:27.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdministrareAparateFoto.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\DataAccessLayer\\AdministrareAparateFoto.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AdministrareAparateFoto.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\DataAccessLayer\\AdministrareAparateFoto.cs",
+              "RelativeToolTip": "DataAccessLayer\\AdministrareAparateFoto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:41:58.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AparatFoto.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\LibrarieModele\\AparatFoto.cs",
+              "RelativeDocumentMoniker": "LibrarieModele\\AparatFoto.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\LibrarieModele\\AparatFoto.cs",
+              "RelativeToolTip": "LibrarieModele\\AparatFoto.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAxwCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:44:57.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormaClienti.Designer.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaClienti.Designer.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormaClienti.Designer.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\FormaClienti.Designer.cs",
+              "RelativeToolTip": "InterfataUtilizator\\FormaClienti.Designer.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAowHYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:19:41.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StocareFactory.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\StocareFactory.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\StocareFactory.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\StocareFactory.cs",
+              "RelativeToolTip": "InterfataUtilizator\\StocareFactory.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwCsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:56:30.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IStocareInchirieriAparateFoto.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\DataAccessLayer\\IStocareInchirieriAparateFoto.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IStocareInchirieriAparateFoto.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\DataAccessLayer\\IStocareInchirieriAparateFoto.cs",
+              "RelativeToolTip": "DataAccessLayer\\IStocareInchirieriAparateFoto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:44:07.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IStocareClienti.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\DataAccessLayer\\IStocareClienti.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IStocareClienti.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\DataAccessLayer\\IStocareClienti.cs",
+              "RelativeToolTip": "DataAccessLayer\\IStocareClienti.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:43:43.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IStocareAparatFoto.cs",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\DataAccessLayer\\IStocareAparatFoto.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IStocareAparatFoto.cs",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\DataAccessLayer\\IStocareAparatFoto.cs",
+              "RelativeToolTip": "DataAccessLayer\\IStocareAparatFoto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:43:16.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "app.config",
+              "DocumentMoniker": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\app.config",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\app.config",
+              "ToolTip": "D:\\An III Semetrul II\\BD-PROIECT\\Proiect_BazeDeDate -- Aparat_Foto\\InterfataUtilizator\\app.config",
+              "RelativeToolTip": "InterfataUtilizator\\app.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-06T15:36:05.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

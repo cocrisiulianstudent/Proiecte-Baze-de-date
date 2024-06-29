@@ -1,0 +1,132 @@
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\DotNetOracle.exe.config
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\DotNetOracle.exe
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\DotNetOracle.pdb
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\LibrarieModele.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\NivelAccesDate.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\Oracle.DataAccess.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\Oracle.ManagedDataAccess.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Buffers.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Formats.Asn1.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Memory.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Text.Encodings.Web.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Text.Json.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.ValueTuple.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\NivelAccesDate.pdb
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\NivelAccesDate.dll.config
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\LibrarieModele.pdb
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\LibrarieModele.dll.config
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Buffers.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Formats.Asn1.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Memory.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Text.Encodings.Web.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Text.Json.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.ValueTuple.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\obj\x64\Debug\InterfataUtilizator.csproj.AssemblyReference.cache
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\obj\x64\Debug\DotNetOracle.FormaAfisare.resources
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\obj\x64\Debug\DotNetOracle.FormaAparatFoto.resources
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\obj\x64\Debug\DotNetOracle.Properties.Resources.resources
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\obj\x64\Debug\InterfataUtilizator.csproj.GenerateResource.cache
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\obj\x64\Debug\InterfataUtilizator.csproj.CoreCompileInputs.cache
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\obj\x64\Debug\Interfat.12A97923.Up2Date
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\obj\x64\Debug\DotNetOracle.exe
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\obj\x64\Debug\DotNetOracle.pdb
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\obj\x64\Debug\DotNetOracle.FormaClienti.resources
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto\InterfataUtilizator\obj\x64\Debug\DotNetOracle.FormaInchirieriAparatFoto.resources
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\obj\x64\Debug\InterfataUtilizator.csproj.AssemblyReference.cache
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\obj\x64\Debug\DotNetOracle.FormaAfisare.resources
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\obj\x64\Debug\DotNetOracle.FormaAparatFoto.resources
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\obj\x64\Debug\DotNetOracle.FormaClienti.resources
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\obj\x64\Debug\DotNetOracle.FormaInchirieriAparatFoto.resources
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\obj\x64\Debug\DotNetOracle.Properties.Resources.resources
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\obj\x64\Debug\InterfataUtilizator.csproj.GenerateResource.cache
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\obj\x64\Debug\InterfataUtilizator.csproj.CoreCompileInputs.cache
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\obj\x64\Debug\DotNetOracle.exe
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\obj\x64\Debug\DotNetOracle.pdb
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\DotNetOracle.exe.config
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\DotNetOracle.exe
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\DotNetOracle.pdb
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\LibrarieModele.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\NivelAccesDate.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\Oracle.DataAccess.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\Oracle.ManagedDataAccess.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\System.Buffers.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\System.Formats.Asn1.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\System.Memory.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\System.Text.Encodings.Web.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\System.Text.Json.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\System.ValueTuple.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\NivelAccesDate.pdb
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\NivelAccesDate.dll.config
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\LibrarieModele.pdb
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\LibrarieModele.dll.config
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\System.Buffers.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\System.Formats.Asn1.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\System.Memory.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\System.Text.Encodings.Web.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\System.Text.Json.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\bin\x64\Debug\System.ValueTuple.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_Aparat_Foto_Bun\InterfataUtilizator\obj\x64\Debug\Interfat.12A97923.Up2Date
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\DotNetOracle.exe.config
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\DotNetOracle.exe
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\DotNetOracle.pdb
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\LibrarieModele.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\NivelAccesDate.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\Oracle.DataAccess.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\Oracle.ManagedDataAccess.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Buffers.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Formats.Asn1.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Memory.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Text.Encodings.Web.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Text.Json.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.ValueTuple.dll
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\NivelAccesDate.pdb
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\NivelAccesDate.dll.config
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\LibrarieModele.pdb
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\LibrarieModele.dll.config
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Buffers.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Formats.Asn1.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Memory.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Text.Encodings.Web.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Text.Json.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\bin\x64\Debug\System.ValueTuple.xml
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\obj\x64\Debug\InterfataUtilizator.csproj.AssemblyReference.cache
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\obj\x64\Debug\DotNetOracle.FormaAfisare.resources
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\obj\x64\Debug\DotNetOracle.FormaAparatFoto.resources
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\obj\x64\Debug\DotNetOracle.FormaClienti.resources
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\obj\x64\Debug\DotNetOracle.FormaInchirieriAparatFoto.resources
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\obj\x64\Debug\DotNetOracle.Properties.Resources.resources
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\obj\x64\Debug\InterfataUtilizator.csproj.GenerateResource.cache
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\obj\x64\Debug\InterfataUtilizator.csproj.CoreCompileInputs.cache
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\obj\x64\Debug\Interfat.12A97923.Up2Date
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\obj\x64\Debug\DotNetOracle.exe
+D:\An III Semetrul II\BD-PROIECT\Proiect_BazeDeDate -- Aparat_Foto\InterfataUtilizator\obj\x64\Debug\DotNetOracle.pdb
